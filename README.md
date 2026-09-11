@@ -1,120 +1,70 @@
 # Hi, I'm Rafał 👋
 
-### Python / Django Developer
+## Python / Django Developer
 
-I’m a developer focused on building web applications with **Python, Django, and Django REST Framework**.
+I build web applications and REST APIs using **Python, Django, Django REST Framework, and PostgreSQL**.
 
-My professional background combines **web development, running my own business, digital marketing, SEO, and direct client communication**. I’m now focusing on Python and Django development and building production-oriented portfolio projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-* Python
-* Django
-* Django REST Framework
-* PostgreSQL
-* REST APIs
-* OpenAPI / Swagger
-* django-allauth
-
-### Testing & Code Quality
-
-* pytest
-* pytest-django
-* Flake8
-* Automated testing
-* GitHub Actions
-
-### DevOps & Tools
-
-* Docker
-* Docker Compose
-* Git
-* GitHub
-* Linux
-
-### Frontend
-
-* HTML
-* CSS
-* Bootstrap
-* Bootstrap Icons
-
----
-
-## 💼 Professional Background
-
-I have several years of professional experience running my own business, including **web development, responsive websites, SEO, Google Ads, digital marketing, and direct client communication**.
-
-Running my own business gave me practical experience in:
-
-* working directly with clients
-* understanding business requirements
-* delivering solutions independently
-* managing projects and priorities
-* troubleshooting problems
-* taking responsibility for results
-
-I’m bringing this professional experience into my current focus on **Python and Django development**.
+I have **7 years of experience running a web development business**, where I built and deployed websites and worked directly with clients. I'm currently focused on backend development with Python and Django, with an emphasis on automated testing, Docker, and CI.
 
 ---
 
 ## 🚀 Featured Project
 
-### 📚 Django Book Review
+### [Django Book Review](https://github.com/rwiszowaty/django-book-review)
 
-A full-stack Django web application for browsing books and sharing reviews.
+A book review web application built with **Django, Django REST Framework, and PostgreSQL**.
 
-The project demonstrates practical experience with Django application architecture, authentication, REST API development, automated testing, PostgreSQL, Docker, and CI.
+**Key features:**
 
-**Main features:**
+* Email-based authentication, email verification, and user profiles
+* Book search, filtering, sorting, and pagination
+* Rating and review system
+* REST API built with Django REST Framework
+* OpenAPI / Swagger API documentation
+* Automated testing, Docker, PostgreSQL, and GitHub Actions CI
 
-* User registration and email verification
-* Email-based authentication
-* Password reset by email
-* Public user profiles
-* Book browsing and detailed book pages
-* Search, filtering, sorting, and pagination
-* Book reviews with ratings from 1 to 5
-* One review per user per book
-* REST API for books and reviews
-* OpenAPI schema and Swagger documentation
-* Automated tests with pytest
-* PostgreSQL database
-* Dockerized development environment
-* GitHub Actions CI
+**Tech stack:**
+`Python` `Django` `Django REST Framework` `PostgreSQL` `pytest` `Docker` `GitHub Actions` `Bootstrap`
 
-**Tech:** Python · Django · Django REST Framework · PostgreSQL · Docker · pytest · GitHub Actions · Bootstrap
-
-🔗 [View the project](https://github.com/rwiszowaty/django-book-review)
+➡️ **[View the project on GitHub](https://github.com/rwiszowaty/django-book-review)**
 
 ---
 
-## 📌 Current Focus
+## 🛠️ Tech Stack
 
-* Python and Django development
-* Django REST Framework
-* REST API design
-* PostgreSQL and relational databases
-* Automated testing with pytest
-* Docker and Docker Compose
-* Code quality and CI with GitHub Actions
-* Building production-oriented web applications
+**Backend**
+Python · Django · Django REST Framework
+
+**Databases**
+PostgreSQL · SQL
+
+**Testing**
+pytest · pytest-django
+
+**Tools**
+Docker · Docker Compose · Git · GitHub · GitHub Actions · Flake8
+
+**Frontend**
+HTML · CSS · Bootstrap
+
+**Systems**
+Linux
 
 ---
 
-## 🎯 Career
+## 💼 Professional Background
 
-I’m looking to combine my previous professional and web development experience with my current Python and Django skills in a **Python / Django development role**.
+Before focusing on Python and Django development, I spent **7 years running a web development business**.
 
-I’m interested in working on real-world applications, contributing to a development team, and continuing to grow as a software developer.
+My experience includes:
+
+* Designing, developing, and deploying websites using **HTML, CSS, PHP, and WordPress**
+* Working directly with clients to understand requirements and deliver appropriate solutions
+* SEO optimization and management of Google Ads campaigns
+* Managing projects independently from initial requirements through delivery
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [rwiszowaty](https://github.com/rwiszowaty)
-* Email: [r.wiszowaty@gmail.com](mailto:r.wiszowaty@gmail.com)
+**Email:** [r.wiszowaty@gmail.com](mailto:r.wiszowaty@gmail.com)
